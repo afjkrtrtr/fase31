@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "uy1QcAasp7bXw77d/upYmcJ/dtDCjYEy+LJpBB/MD/37LLEJj598zM8BK0ktC5eH3AeBHHEE7kfnXAuJckmYsg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\LENOVO\\Documents\\Pregrado Desarrollo de software\\Lenguajes de programación\\Fase 3\\crudFase3\\crud_fase3\\crud_fase3\\crud_fase3.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\LENOVO\\.nuget\\packages\\mysqlconnector\\2.1.13\\mysqlconnector.2.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}
